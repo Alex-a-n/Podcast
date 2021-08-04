@@ -1,0 +1,2 @@
+D:\C\vsProject\help\Debug\help.exe
+D:\Git-Project\Podcast\Debug\podcast.exe

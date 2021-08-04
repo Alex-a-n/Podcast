@@ -1,0 +1,32 @@
+﻿D:\C\VS\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(help.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  function.c
+D:\Git-Project\Podcast\function.c(175,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\Git-Project\Podcast\function.c(225,23): warning C4133: “函数”: 从“meida *”到“media *”的类型不兼容
+D:\Git-Project\Podcast\function.c(482,6): warning C4101: “itime”: 未引用的局部变量
+D:\Git-Project\Podcast\function.c(912,31): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Git-Project\Podcast\function.c(934,15): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+D:\Git-Project\Podcast\function.c(940,15): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+D:\Git-Project\Podcast\function.c(970,33): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Git-Project\Podcast\function.c(995,33): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Git-Project\Podcast\function.c(1010,12): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+D:\Git-Project\Podcast\function.c(1019,12): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+D:\Git-Project\Podcast\function.c(1031,12): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+D:\Git-Project\Podcast\function.c(828,7): warning C4101: “file_name”: 未引用的局部变量
+D:\Git-Project\Podcast\function.c(1076,12): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+D:\Git-Project\Podcast\function.c(1162,7): warning C4101: “ric”: 未引用的局部变量
+D:\Git-Project\Podcast\function.c(1324,47): warning C4101: “str1”: 未引用的局部变量
+D:\Git-Project\Podcast\function.c(1324,37): warning C4101: “str”: 未引用的局部变量
+  interface.c
+D:\Git-Project\Podcast\interface.c(10,13): warning C4013: “setSyscolor”未定义；假设外部返回 int
+D:\Git-Project\Podcast\interface.c(11,10): warning C4013: “setface1”未定义；假设外部返回 int
+D:\Git-Project\Podcast\interface.c(14,14): warning C4013: “setTextcolor”未定义；假设外部返回 int
+D:\Git-Project\Podcast\interface.c(24,10): warning C4013: “setface2”未定义；假设外部返回 int
+D:\Git-Project\Podcast\interface.c(79,19): warning C4013: “setCursorPosition”未定义；假设外部返回 int
+  main.c
+  switch.c
+D:\Git-Project\Podcast\switch.c(27,36): warning C4013: “changeface1”未定义；假设外部返回 int
+D:\Git-Project\Podcast\switch.c(27,51): warning C4013: “changeface2”未定义；假设外部返回 int
+D:\Git-Project\Podcast\switch.c(108,11): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+  正在生成代码...
+  help.vcxproj -> D:\Git-Project\Podcast\Debug\podcast.exe
